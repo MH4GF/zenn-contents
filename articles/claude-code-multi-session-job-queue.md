@@ -61,7 +61,7 @@ tqは、CLIのダウンロードとClaude Code Pluginのインストールが必
 
 ```bash
 # CLIインストール
-go install github.com/MH4GF/tq@latest
+brew install --cask MH4GF/tap/tq
 
 # Claude Code Pluginインストール
 claude plugin marketplace add MH4GF/tq
